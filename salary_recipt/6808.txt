@@ -1,0 +1,18 @@
+	Company Name, XYZ
+	Address: XYZ,Floor4
+----------------------------------------------
+Employee Id		:  6808
+salary of		:  dec-2022
+Generated On:  18-50-2022
+----------------------------------------------
+Total Days		:  70
+Total Presents		:  65
+Total absents		:  5
+Convence		:  4000
+Medical		:  3
+PF		:  2300
+Gross Payment		:  56000
+Net salary		:  4000
+----------------------------------------------
+This is computer generated slip, not required any signature
+
